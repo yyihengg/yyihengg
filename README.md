@@ -1,11 +1,11 @@
 ## Individual Projects
-**Mood-Based Music Recommender**
+**Mood-Based Music Recommender** <br>
 Flask web application integrating Spotify Web API and using real-time mood tagging of currently playing tracks to recommend tracks
 
 
 ## Team Projects
 
-**GrantScraper** — hackathon project built in a team of 4 at Hack4Good 2026
+**GrantScraper** — hackathon project built in a team of 4 at Hack4Good 2026 <br>
 AI-powered matching and web scraping to filter grants from OurSG portal that helps non-profits identify relevant grants from the portal more efficiently
 
 <!--
