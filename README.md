@@ -1,4 +1,12 @@
-## Hi there 👋
+## Individual Projects
+**Mood-Based Music Recommender**
+Flask web application integrating Spotify Web API and using real-time mood tagging of currently playing tracks to recommend tracks
+
+
+## Team Projects
+
+**GrantScraper** — hackathon project built in a team of 4 at Hack4Good 2026
+AI-powered matching and web scraping to filter grants from OurSG portal that helps non-profits identify relevant grants from the portal more efficiently
 
 <!--
 **yyihengg/yyihengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
