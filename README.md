@@ -5,7 +5,7 @@ Flask web application integrating Spotify Web API and using real-time mood taggi
 
 ## Team Projects
 
-**GrantScraper** — Fork of the original hackathon project built by my team of 4 at Hack4Good 2026 that went to the finals <br>
+**GrantScraper** — Hackathon project built with a team of 4 at Hack4Good 2026 that went to the finals <br>
 AI-powered matching and web scraping to filter grants from OurSG portal that helps non-profits identify relevant grants from the portal more efficiently
 
 <!--
